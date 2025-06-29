@@ -98,6 +98,7 @@ Error Distribution Configuration:
 **Procedure**
 
 Structure Hierarchy:
+
 AbstractAlgebraicStructureRepresentation
 
 ├── CyclotomicPolynomialRingConstructor  
