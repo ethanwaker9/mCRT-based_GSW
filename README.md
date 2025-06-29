@@ -101,24 +101,24 @@ Structure Hierarchy:
 
 Algebraic Structure Hierarchy:
 - AbstractAlgebraicStructureRepresentation
-  ├── CyclotomicPolynomialRingConstructor
-  ├── AlgebraicElementRepresentation
-  ├── ChineseRemainderTheoremDecomposition
-  └── BinaryDecompositionMatrixGenerator
+  - CyclotomicPolynomialRingConstructor
+  - AlgebraicElementRepresentation
+  - ChineseRemainderTheoremDecomposition
+  - BinaryDecompositionMatrixGenerator
 
 Encryption Orchestration:
-AdvancedHomomorphicEncryptionOrchestrator
-├── ParallelChineseRemainderTheoremEncryptionEngine
-├── AdvancedHomomorphicOperationProcessor
-├── BinaryDecompositionCiphertextProcessor
-└── AdvancedHomomorphicMultiplicationEngine
+- AdvancedHomomorphicEncryptionOrchestrator
+  - ParallelChineseRemainderTheoremEncryptionEngine
+  - AdvancedHomomorphicOperationProcessor
+  - BinaryDecompositionCiphertextProcessor
+  - AdvancedHomomorphicMultiplicationEngine
 
 Benchmarking Framework:
-MasterBenchmarkingOrchestrationEngine
-├── AdvancedParameterSetBenchmarkingOrchestrator
-├── ComprehensiveBenchmarkResultsPresentationEngine
-├── AdvancedComparativeAnalysisEngine
-└── SystemInformationReportingEngine
+- MasterBenchmarkingOrchestrationEngine
+  - AdvancedParameterSetBenchmarkingOrchestrator
+  - ComprehensiveBenchmarkResultsPresentationEngine
+  - AdvancedComparativeAnalysisEngine
+  - SystemInformationReportingEngine
 
 -----------------------------
 
