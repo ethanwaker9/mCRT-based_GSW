@@ -99,15 +99,12 @@ Error Distribution Configuration:
 
 Structure Hierarchy:
 
-AbstractAlgebraicStructureRepresentation
-
-├── CyclotomicPolynomialRingConstructor  
-
-├── AlgebraicElementRepresentation
-
-├── ChineseRemainderTheoremDecomposition
-
-└── BinaryDecompositionMatrixGenerator
+Algebraic Structure Hierarchy:
+- AbstractAlgebraicStructureRepresentation
+  ├── CyclotomicPolynomialRingConstructor
+  ├── AlgebraicElementRepresentation
+  ├── ChineseRemainderTheoremDecomposition
+  └── BinaryDecompositionMatrixGenerator
 
 Encryption Orchestration:
 AdvancedHomomorphicEncryptionOrchestrator
