@@ -95,9 +95,7 @@ Error Distribution Configuration:
 
 -----------------------------
 
-**Procedure**
-
-Structure Hierarchy:
+**Procedure and Structure**
 
 Algebraic Structure Hierarchy:
 - AbstractAlgebraicStructureRepresentation
